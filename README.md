@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdrrifat297
+- 👋 Hi, I’m @rifatsoftdev
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Android Development.
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-mdrrifat297/mdrrifat297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rifatsoftdev/rifatsoftdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
