@@ -10,16 +10,16 @@ Live Portfolio 👉 https://rifatsoftdev.netlify.app/
 ## 👋 About Me
 
 Hi! I’m **Md Rifat Rahman**, an aspiring **Software Engineer** from Bangladesh.  
-I’m passionate about coding, solving problems, and building impactful software that makes life easier. Currently I’m learning and improving in full-stack development while participating actively in competitive programming. <!-- :contentReference[oaicite:1]{index=1}-->
+I’m passionate about coding, solving problems, and building impactful software that makes life easier. Currently I’m learning and improving in full-stack development while participating actively in competitive programming.
 
 ---
 
 ## 🧠 What I Do
 
 -  Full-stack Web Development  
--  Competitive Programming (300+ problems solved)  
+-  Competitive Programming (400+ problems solved)  
 -  Python, C++, Java development  
--  Learning new technologies and best practices continuously :contentReference[oaicite:2]{index=2}
+-  Learning new technologies and best practices continuously.
 
 ---
 
@@ -42,7 +42,6 @@ I’m passionate about coding, solving problems, and building impactful software
 ### Other
 - Competitive Programming
 - Problem Solving  
-<!-- *(You can expand this list based on your actual skills)* :contentReference[oaicite:3]{index=3} -->
 
 ---
 
@@ -50,27 +49,42 @@ I’m passionate about coding, solving problems, and building impactful software
 
 - ✅ Solved **400+ problems** on different platforms  
 - ✅ Completed **10+ full-stack projects**  
-- ✅ Dedicated learner and growing developer :contentReference[oaicite:4]{index=4}
+- ✅ Dedicated learner and growing developer
 
 ---
 
 ## 📂 Projects
 
-Here are some highlighted projects you’ve worked on (replace with real links & descriptions):
-<!-- 
-### 🌐 1. Project Name
-**Description:** What this project does  
-**Tech:** Technologies used  
-**Live:** 🔗 (link)  
-**Code:** 🧾 (GitHub link)
+### 1. 💰 PocketPay - Personal Finance Management App
 
-### 🔹 2. Another Project
-**Description:** Short summary  
-**Tech:** Tools & languages  
-**Live:** 🔗 (link)  
-**Code:** 🧾 (GitHub link)
+PocketPay is a modern personal finance management application that helps users track income, expenses, and manage daily transactions efficiently.
 
-*(Add more projects like above — include your most important ones)* -->
+#### ✨ Features
+- 📊 Track income & expenses
+- 🗂️ Transaction history management
+- 📈 Financial overview dashboard
+- 🔐 Secure user authentication
+
+#### 🛠️ Tech Stack
+- Java (Android)
+- XML UI Design
+- Firebase
+- FastAPI
+
+#### 🎯 Purpose
+The goal of PocketPay is to simplify daily money tracking and improve financial awareness through a clean and user-friendly interface.
+
+#### 📷 Screenshots
+
+![PocketPay Home](assets/screenshots/PocketPay_Home.jpeg)
+![PocketPay Transactions](assets/screenshots/PocketPay_History.jpeg)
+![PocketPay Donate](assets/screenshots/PocketPay_Donate.jpeg)
+![PocketPay Profile](assets/screenshots/PocketPay_Profile.jpeg)
+
+
+#### 🔗 Links
+- APK: Available locally
+- Source Code: Private repository
 
 ---
 
@@ -79,10 +93,11 @@ Here are some highlighted projects you’ve worked on (replace with real links &
 Feel free to connect with me:
 
 - 📧 **Email:** rifatsoft.dev@gmail.com
-- 🔗 **GitHub:** [rifatsoftdev](https:// github.com/rifatsoftdev)
-- 🔗 **Portfolio:** [rifatsoft.dev](https://rifatsoftdev.netlify.app/)
+- 🔗 **GitHub:** [rifatsoftdev](https://github.com/rifatsoftdev)
+- 🔗 **Portfolio:** [rifatsoftdev](https://rifatsoftdev.netlify.app/)
 - 🔗 **LinkedIn:** [Md Rifat Rahman](https://www.linkedin.com/in/rifatsoftdev/)
 - 🔗 **Instagram:** [@rifatsoftdev](https://www.instagram.com/rifatsoftdev/)
+- 🔗 **LeetCode:** [@rifatsoftdev](https://leetcode.com/u/rifatsoftdev/)
 
 ---
 
