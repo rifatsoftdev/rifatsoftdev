@@ -76,10 +76,12 @@ The goal of PocketPay is to simplify daily money tracking and improve financial 
 
 #### 📷 Screenshots
 
-![PocketPay Home](assets/screenshots/PocketPay_Home.jpeg)
-![PocketPay Transactions](assets/screenshots/PocketPay_History.jpeg)
-![PocketPay Donate](assets/screenshots/PocketPay_Donate.jpeg)
-![PocketPay Profile](assets/screenshots/PocketPay_Profile.jpeg)
+<p align="center">
+  <img src="assets/screenshots/PocketPay_Home.jpeg" alt="PocketPay Home" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/PocketPay_History.jpeg" alt="PocketPay Transactions" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/PocketPay_Donate.jpeg" alt="PocketPay Donate" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/PocketPay_Profile.jpeg" alt="PocketPay Profile" width="24%" style="min-width: 150px; margin: 4px;" />
+</p>
 
 
 #### 🔗 Links
