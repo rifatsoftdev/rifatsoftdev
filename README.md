@@ -74,10 +74,11 @@ Here are some highlighted projects you’ve worked on (replace with real links &
 
 Feel free to connect with me:
 
-📧 **Email:** rifatsoft.dev@gmail.com  
-🔗 **Portfolio:** https://rifatsoftdev.netlify.app/  
-🔗 **GitHub:** https://github.com/rifatsoftdev  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rifatsoftdev
+📧 **Email:** rifatsoft.dev@gmail.com
+🔗 **GitHub:** [rifatsoftdev](https:// github.com/rifatsoftdev)
+🔗 **Portfolio:** [rifatsoft.dev](https://rifatsoftdev.netlify.app/)
+🔗 **LinkedIn:** [Md Rifat Rahman](https://www.linkedin.com/in/rifatsoftdev/)
+🔗 **Instagram:** [@rifatsoftdev](https://www.instagram.com/rifatsoftdev/)
 
 ---
 
