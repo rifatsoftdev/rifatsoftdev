@@ -77,10 +77,10 @@ The goal of PocketPay is to simplify daily money tracking and improve financial 
 #### 📷 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/PocketPay_Home.jpeg" alt="PocketPay Home" width="24%" style="min-width: 150px; margin: 4px;" />
-  <img src="assets/screenshots/PocketPay_History.jpeg" alt="PocketPay Transactions" width="24%" style="min-width: 150px; margin: 4px;" />
-  <img src="assets/screenshots/PocketPay_Donate.jpeg" alt="PocketPay Donate" width="24%" style="min-width: 150px; margin: 4px;" />
-  <img src="assets/screenshots/PocketPay_Profile.jpeg" alt="PocketPay Profile" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/Screenshot_20260324_112942.png" alt="PocketPay Home" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/Screenshot_20260324_113026.png" alt="PocketPay Transactions" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/Screenshot_20260324_113127.png" alt="PocketPay Donate" width="24%" style="min-width: 150px; margin: 4px;" />
+  <img src="assets/screenshots/Screenshot_20260324_113056.png" alt="PocketPay Profile" width="24%" style="min-width: 150px; margin: 4px;" />
 </p>
 
 
@@ -103,6 +103,11 @@ Feel free to connect with me:
 
 ---
 
+## Certifications
+- HackerRank - Software Engineer Certificate - [View Certificate](https://www.hackerrank.com/certificates/466c9b0d185b)
+- Problem Solving (Intermediate) Certificate - [View Certificate](https://www.hackerrank.com/certificates/56c97b7ad632)
+
+---
 ## 📄 Resume
 
 👉 Download my CV from my portfolio home page.
