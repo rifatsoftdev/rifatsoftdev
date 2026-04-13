@@ -43,6 +43,21 @@ I’m passionate about coding, solving problems, and building impactful software
 - Competitive Programming
 - Problem Solving  
 
+### Tools & Logos
+<p align="center">
+  <img src="assets/icons/python_logo.png" alt="Python" width="64" height="64" />
+  <img src="assets/icons/cpp_logo.png" alt="C++" width="64" height="64" />
+  <img src="assets/icons/java_logo.png" alt="Java" width="64" height="64" />
+  <img src="assets/icons/javascript_logo.png" alt="JavaScript" width="64" height="64" />
+  <img src="assets/icons/HTML5_logo.png" alt="HTML5" width="64" height="64" />
+  <img src="assets/icons/css_logo.png" alt="CSS" width="64" height="64" />
+  <img src="assets/icons/FastAPI_logo.png" alt="FastAPI" width="64" height="64" />
+  <img src="assets/icons/mysql_logo.png" alt="MySQL" width="64" height="64" />
+  <img src="assets/icons/docker_logo.png" alt="Docker" width="64" height="64" />
+  <img src="assets/icons/github_logo.png" alt="GitHub" width="64" height="64" />
+  <img src="assets/icons/linux_logo.png" alt="Linux" width="64" height="64" />
+</p>
+
 ---
 
 ## 📊 Achievements
